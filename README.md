@@ -1,10 +1,9 @@
 ### Aloha World, I'm Violette! 👋
 
-
 🔍 Witness the power of data unleashed by an awe-inspiring data scientist and financial virtuoso, crafting decisions that transcend the mundane! Behold my projects in all their glory!
-🔭 Behold, as I toil away on mind-boggling new projects, like a mad genius in his laboratory!
+🔭 Behold, as I toil away on mind-boggling new projects, like a mad genius in her laboratory!
 🌱 I thirstily drink from the fountain of machine learning knowledge, forever eager to expand my expertise!
-👯 I am on a quest for brilliant minds to collaborate with, in the realms of data analysis, data science, and software sorcery!
+👯 I am on a quest for brilliant minds to collaborate with, in the realms of data analysis, data science, and financial analysis!
 💬 Speaketh thy query, for I am here to enlighten thee with my boundless wisdom!
 ⚡ Unleash the fun fact: I am perpetually ready to embark on new work adventures! 😄 Let us unite and engage in an epic conversation, for I am truly extraordinary!
 
@@ -31,7 +30,7 @@
   <a href=https://www.linkedin.com/in/violette-naa-adoley-allotey-0330161a3>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=https://twitter.com/allotey_violette_>
+  <a href=https://twitter.com/AlloteyViolette>
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
   <a href=https://medium.com/@violetteallotey>
